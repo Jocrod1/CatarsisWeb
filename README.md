@@ -1,2 +1,12 @@
-# Catarsis
- It’s a Post-apocalyptic game, based on 2D fighting mechanics with side scroll style line, like a beat em up, its difficult is on the enemies, they are stronger than you and they have advantages over you since they can reappear, that means that after you have passed an area they will reappear when you return.
+![Catarsis Logo](https://github.com/Jocrod1/CatarsisWeb/blob/master/Assets/images/UI/MainMenu/catarsis-logo.png)
+
+# CATARSIS: THE GAME. (Web)
+ It’s a Post-apocalyptic game, based on 2D fighting mechanics with side scroll style line, like a beat em up.
+ 
+ **Tools:**
+ * Unity C#.
+ * Visual Studio.
+ * tmpro.
+ * aseprite.
+
+Check it out free on [**itch.io**](https://jocrod.itch.io/catarsis-the-game)
